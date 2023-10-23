@@ -1,1 +1,2 @@
 # ImageSlider.github.io
+This project contains an image slider which displays a new image every time we click on either of the left and right arrows. In this project, I have used basic front-end technologies like HTML (to store the images and text), CSS (to maintain the dimensions of those images) and JavaScript( to make the arrows responsive and display those images one by one, instead of displaying all at once).
